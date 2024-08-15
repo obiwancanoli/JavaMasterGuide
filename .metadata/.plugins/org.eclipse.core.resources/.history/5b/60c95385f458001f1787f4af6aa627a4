@@ -1,0 +1,24 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		double x = 3.14;
+		double y = -10;
+		
+		//Find larger of two numbers. Use .min to find minimum:
+		double z = Math.max(x, y);
+		System.out.println(z);
+		
+		//Get absolute value:
+		double absol = Math.abs(y);
+		System.out.println(absol);
+		
+		//Square Root:
+		double sqr = Math.sqrt(10);
+		System.out.println(sqr);
+		
+		
+	}
+
+}

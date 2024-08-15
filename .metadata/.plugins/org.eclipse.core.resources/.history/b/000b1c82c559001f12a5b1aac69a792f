@@ -1,0 +1,11 @@
+
+public class ArrayPractice {
+
+	public static void main(String[] args) {
+
+		String[] cars = {"McLaren", "Ford", "Nissan", "Rivian"};
+		
+		
+	}
+
+}

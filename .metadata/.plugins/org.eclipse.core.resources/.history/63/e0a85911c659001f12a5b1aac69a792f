@@ -1,0 +1,14 @@
+
+public class ArrayPractice {
+
+	public static void main(String[] args) {
+
+		String[] cars = {"McLaren", "Ford", "Nissan", "Rivian"};
+		
+		System.out.println(cars[3]);
+		
+		String[] tacos = new String[3]
+		
+	}
+
+}
