@@ -194,3 +194,19 @@ java.lang.Exception: The project description file (.project) for '.org.eclipse.e
 
 !ENTRY ch.qos.logback.classic 1 0 2024-08-15 16:33:06.807
 !MESSAGE Logback config file: /Users/daniel/JavaMasterGuide/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-16 15:09:51.945 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/danielmurillo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/danielmurillo/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-16 15:09:52.960
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-08-16 15:10:03.897
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-16 15:10:04.088
+!MESSAGE Logback config file: /Users/danielmurillo/JavaMasterGuide/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
